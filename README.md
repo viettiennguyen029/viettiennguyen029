@@ -44,10 +44,9 @@ const viettiennguyen029 = {
         databases: ["PostgreSql ", "MySql", "MongoDB"],
         misc: ["Firebase", "Socket.IO", "Firebase", "Figma"]
     },
-    architecture: ["Microservice Architecture", "Progressive web applications", 
-    "Decentralize applications"],
-    currentFocus: "Development and research in the software industry using 
-    cutting-edge technologies, specified in: edTech, finTech"
+    architecture: ["Microservice Architecture","Decentralize applications"],
+    currentFocus: "Development and research in the software industry using cutting-edge technologies,
+    specified in: edTech, finTech"
 };
 ```
 
