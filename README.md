@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Nguyen Viet Tien</h1>
-<h3><em>Software Engineer at <a href="https://spores.app/">Spores Network  <img src="https://spores.app/wp-content/themes/spores-v2/images/logo-mark.svg" width="30"></a> 
+<h3><em>Software Engineer at <a href="https://spores.app/">Spores Network  <img src="https://spores.app/favicon.ico" width="30"></a> 
 </em></h3>
 
 [![Linkedin: viettiennguyen029](https://img.shields.io/badge/-viettiennguyen029-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viettiennguyen029/)](https://www.linkedin.com/in/viettiennguyen029/)
@@ -40,7 +40,6 @@ const viettiennguyen029 = {
         frontEnd: {
             react: ["TypeScript", "Tailwind CSS", "Ant Design", "Rebass"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["PostgreSql ", "MySql", "MongoDB"],
         misc: ["Firebase", "Socket.IO", "Firebase", "Figma"]
     },
