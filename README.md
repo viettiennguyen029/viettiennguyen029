@@ -32,7 +32,7 @@
 const viettiennguyen029 = {
     pronouns: "He" | "Him",
     code: ["Golang", "Python", "TypeScript", "Swift"],
-    askMeAbout: ["Software Development", "AI", "Self Development"],
+    askMeAbout: ["Software Development", "System Desgin", "Self Development"],
     technologies: {
         backEnd: {
             go: ["gin-gonic", "gorm", "go-ethereum"],
@@ -41,7 +41,6 @@ const viettiennguyen029 = {
             react: ["TypeScript", "Tailwind CSS", "Ant Design", "Rebass"]
         },
         databases: ["PostgreSql ", "MySql", "MongoDB"],
-        misc: ["Firebase", "Socket.IO", "Firebase", "Figma"]
     },
     architecture: ["Microservice Architecture","Decentralize applications"],
     currentFocus: "Development and research in the software industry using cutting-edge technologies,
