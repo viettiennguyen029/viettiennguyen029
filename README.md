@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Nguyen Viet Tien</h1>
-<h3><em>Software Engineer at <a href="https://spores.app/">Spores Network  <img src="https://spores.app/favicon.ico" width="30"></a> 
+<h3><em>Software Engineer at <a href="https://spores.app/">Spores Network  <img src="https://avatars.githubusercontent.com/u/82374156?s=200&v=4" width="30"></a> 
 </em></h3>
 
 [![Linkedin: viettiennguyen029](https://img.shields.io/badge/-viettiennguyen029-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viettiennguyen029/)](https://www.linkedin.com/in/viettiennguyen029/)
