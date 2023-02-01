@@ -56,7 +56,7 @@ const viettiennguyen029 = {
 <table border="0">
  <tr>
     <td><p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viettiennguyen029&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
 </p>
 </td>
     <td><p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viettiennguyen029&title=MultiLanguage,Stars,Commit&theme=discord&row=1&column=3&margin-w=20" alt="viettiennguyen029" /></a> </p></td>
