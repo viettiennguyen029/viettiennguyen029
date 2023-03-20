@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Nguyen Viet Tien</h1>
-<h3><em>Software Engineer at <a href="https://gobiz.vn/">Gobiz.vn <img src="https://gobiz.vn/wp-content/themes/gobiz/fav/favicon.ico?s=150&v=4" width="30"></a> 
+<h3><em>Software Engineer at <a href="https://octan.network/">Octan Network <img src="https://octan.network/wp-content/uploads/2023/03/cropped-octan-logo-512-32x32.png"></a> 
 </em></h3>
 
 [![Linkedin: viettiennguyen029](https://img.shields.io/badge/-viettiennguyen029-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viettiennguyen029/)](https://www.linkedin.com/in/viettiennguyen029/)
