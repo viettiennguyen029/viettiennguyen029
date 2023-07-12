@@ -6,24 +6,20 @@
 <img src="https://komarev.com/ghpvc/?username=viettiennguyen029&label=Profile%20views&color=brightgreen&style=flat" alt="viettiennguyen029" />
 ![GitHub stars](https://img.shields.io/github/stars/viettiennguyen029?color=brightgreen&label=GitHub%20stars)
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+     <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+    <a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+     <a href="https://hardhat.org/" target="_blank"> <img src="https://github.com/viettiennguyen029/viettiennguyen029/assets/38419585/c0c59289-628d-4bf0-a9dc-a01bb07d65ab" alt="hardhat" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>    
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://tyk.io/" target="_blank"> <img src="https://tyk.io/wp-content/themes/tyk/dist/svg/logo.svg" alt="tyk" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+    <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
 </p>
 
 
@@ -31,21 +27,19 @@
 ```javascript
 const viettiennguyen029 = {
     pronouns: "He" | "Him",
-    code: [ "TypeScript","Golang", "Python", "C#"],
-    askMeAbout: ["Software Development", "System Desgin", "Self Development"],
+    code: [ "TypeScript","Golang", "Rust", "Solidity", "Motoko"],
+    askMeAbout: ["Software Development", "Blockchain Development", "Programming Principle"],
     technologies: {
         backEnd: {
             go: ["gin-gonic", "gorm", "go-ethereum"],
-            typeScript: ["NestJS", "Nest Authentication", "TypeOrm", "Mongoose"],
+            typeScript: ["NestJS", "Net", "TypeOrm", "Mongoose"],
         },
-        frontEnd: {
-            react: ["Ant Design", "Tailwind CSS", "Rebass"]
-        },
-        databases: ["PostgreSql ", "MySql", "MongoDB"],
+        smartContract: "Solidity", "Rust", "ICP"
+        databases: ["PostgreSql", "Timescale", "MySql", "MongoDB"],
     },
-    architecture: ["Microservice Architecture", "Decentralize applications", "RESTful APIs"],
+    architecture: ["Microservice Architecture", "Decentralized applications", "Hexagonal Architecture"],
     currentFocus: "Development and research in the software industry using cutting-edge technologies,
-    specified in: edTech, finTech"
+    specified in: edTech, finTech empowered by blockchain technology"
 };
 ```
 
